@@ -40,4 +40,4 @@ As regras a seguir eram as seguintes:
 
 ---
 
-Feito com :heart: by: **Lucas Rocha**
+Feito com :heart:  by: **Lucas Rocha**
