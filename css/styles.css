@@ -167,6 +167,7 @@ footer p {
   width: 660px;
   height: 413px;
   border-radius: 16px;
+  position: relative;
 }
 
 .modal__card {
@@ -184,7 +185,7 @@ footer p {
 .modal__content {
   text-align: center;
 }
-.modal__content h2 {
+.modal__content h3 {
   font-size: 24px;
   color: #111111;
   font-weight: normal;
@@ -198,9 +199,12 @@ footer p {
   margin-bottom: 60px;
 }
 
-.modal__content .close-modal {
+.modal .close-modal {
   color: #999999;
   cursor: pointer;
+  position: absolute;
+  bottom: 30px;
+  right: 50%;
 }
 
 /* ======== MODAL.ACTIVE ====== */
