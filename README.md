@@ -8,9 +8,11 @@
 
 <blockquote align="center">“Sua única limitação é você mesmo!”</blockquote>
 
-  <a align="center" href="https://rocketseat.com.br">
+<p align="center">
+  <a href="https://rocketseat.com.br">
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%23F8952D">
   </a>
+  </p>
 
 ## :rocket: Sobre o desafio
 
