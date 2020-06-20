@@ -16,7 +16,13 @@
 
 ## :rocket: Sobre o desafio
 
-Nesse desafio você vai construir um site completo para uma empresa de receitas chamada Foodfy.
+O desafio proposto pelo Bootcamp Launchbase foi construir um site completo para uma empresa de receitas chamada Foodfy.
+
+### Tecnologias utilizadas
+
+- HTML
+- CSS
+- Javascript
 
 ### Imagens do layout
 
@@ -24,8 +30,10 @@ Acesse a pasta `/assets` para obter todas imagens utilizadas no layout.
 
 ### Dicas e regras
 
+As regras a seguir eram as seguintes:
+
 1. Na página de receitas, quando o usuário clica em uma receita, um modal deve aparecer em tela contendo as mesmas informações da receita que ele clicou;
 
 ---
 
-Feito com :heart: by: Lucas Rocha
+Feito com :heart: by: **Lucas Rocha**
