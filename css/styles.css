@@ -40,6 +40,10 @@ a {
   margin-left: 0;
 }
 
+.header a.menu-ativo {
+  font-weight: bold;
+}
+
 /*=============== HERO ================ */
 
 .hero {
