@@ -18,11 +18,9 @@
 
 O desafio proposto pelo Bootcamp Launchbase foi construir um site completo para uma empresa de receitas chamada Foodfy.
 
-  <div align="center" style="width:100%;height:0;padding-bottom:55%;position:relative;">
-    <iframe 
-      src="https://giphy.com/embed/XeSwfwZLT2FEqW1x7r" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
-    </iframe>
-  </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/XeSwfwZLT2FEqW1x7r/giphy.gif">
+</div>
 
 ### Tecnologias utilizadas
 
